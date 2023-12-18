@@ -1,5 +1,3 @@
-Claro, aqui está o texto convertido para Markdown:
-
 1. **Instale o MinGW ou MSYS:**
    Certifique-se de ter o MinGW (Minimalist GNU for Windows) ou o MSYS (Mingw-w64) instalado no seu sistema. Certifique-se de que o diretório bin do MinGW esteja adicionado à sua variável de ambiente `PATH`.
 
